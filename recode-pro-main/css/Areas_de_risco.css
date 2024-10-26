@@ -1,0 +1,74 @@
+main{
+    padding-bottom: 50px;
+}
+
+h1{
+    color: #C8102E;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.topicos{
+    margin-top: 30px;
+    background-color: rgba(95, 160, 113, 0.779);
+    color:#f2f2f2;
+}
+
+.conteudo{
+    margin-bottom: 30px;    
+}
+
+.conteudo2{
+    margin-bottom: 30px;
+}
+
+h2{
+    color: #C8102E;
+    text-align: center;
+    margin-bottom: 30px; 
+    margin-top: 50px;   
+}
+
+.mapbox{
+    display: flex;
+    width: 100%;
+    flex-flow: row wrap;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 20px;
+    background: #f2f2f2;
+    padding-left: 60px;
+}
+
+.mapbox div{
+    width: 30%;
+}
+
+.mapbox p{
+    width: 100%;
+    padding: 13px 0;
+    font-size: 17px;
+    font-weight: bold;
+    color: #006837;
+    text-align: center;
+}
+
+.locais{
+    width: 300px;
+    height: 200px;
+    border: 3px solid green;
+    margin: 5px;
+    border-radius: 10px;
+    padding: 5px;
+    overflow: hidden;
+}
+
+.mapbox inframe{
+    width: 100%;
+} 
+
+ul{
+    padding-left: 15px;
+}
+
+
